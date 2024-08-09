@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yifeng Lu
-- 👀 I’m interested in I'm interested in the intersection of neuroscience and artificial intelligence.
+- 👀 I'm interested in the intersection of neuroscience and artificial intelligence.
 - 🌱 I'm currently learning about neural networks and deep learning, and I'm also studying how to construct speech neuroprostheses.
 - 📫 My email is huoyingyifeng@163.com (if you don't receive a reply within a week, please contact me again).
 
